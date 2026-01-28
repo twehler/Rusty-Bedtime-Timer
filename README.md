@@ -10,3 +10,5 @@ At reaching bedtime: 1000K (very reddish, will make you want to go to sleep)
 
 INSTALL:
 To run on Ubuntu or a similar Linux distribution, you simply have to install xsct and either run rusty_bedtime_timer, or build it yourself with cargo.
+
+This project is fully open-source according to the GNU General Public License. Feel free to redistribute or modify!
