@@ -31,7 +31,7 @@ fn main() {
 
     let key_times = [
         bedtime - chrono::Duration::hours(3),
-        bedtime - chrono::Duration::minutes(250),
+        bedtime - chrono::Duration::minutes(150),
         bedtime - chrono::Duration::hours(2),
         bedtime - chrono::Duration::hours(1)
     ];
